@@ -11,7 +11,6 @@
 - 👯 I’m looking to collaborate on Development Multi-plataform Apps
 - 🤔 I’m looking for help with big ideas of development
 - 💬 Ask me about my proyects
-- 📫 How to reach me: [LinkeIn](https://www.linkedin.com/in/ignacio-esteban-fonts-731588165/)
 
 ## 🌐 Socials
 
