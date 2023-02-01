@@ -7,7 +7,7 @@
 
 - 💻 I'm studying Systems Engineering.
 - 🔭 I’m currently working on Freelance
-- 🌱 I’m currently learning Flutter APIs
+- 🌱 I’m currently learning Flutter APIs and Firebase
 - 👯 I’m looking to collaborate on Development Multi-plataform Apps
 - 🤔 I’m looking for help with big ideas of development
 - 💬 Ask me about my proyects
