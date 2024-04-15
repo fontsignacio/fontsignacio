@@ -7,7 +7,7 @@
 
 - 💻 I'm studying Systems Engineering.
 - 🔭 I’m currently working for Banana Software 
-- 🌱 I’m currently learning Flutter APIs and Firebase
+- 🌱 I’m currently learning Integration Test
 - 👯 I’m looking to collaborate on Development Multi-plataform Apps
 - 🤔 I’m looking for help with big ideas of development
 - 💬 Ask me about my proyects
