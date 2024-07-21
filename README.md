@@ -6,11 +6,11 @@
 # 💫 About Me:
 
 - 💻 I'm studying Systems Engineering.
-- 🔭 I’m currently working for Banana Software 
-- 🌱 I’m currently learning Integration Test
-- 👯 I’m looking to collaborate on Development Multi-plataform Apps
-- 🤔 I’m looking for help with big ideas of development
-- 💬 Ask me about my proyects
+- 🔭 I’m currently working at Banana Software. 
+- 🌱 I’m currently learning Design Patterns.
+- 👯 I’m looking to collaborate on Development Multi-plataform Apps.
+- 🤔 I’m looking for help with big ideas of development.
+- 💬 Ask me about my proyects.
 
 ## 🌐 Socials
 
