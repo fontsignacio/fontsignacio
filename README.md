@@ -5,7 +5,7 @@
 
 # 💫 About Me:
 
-- 💻 I'm studying Systems Engineering.
+- 💻 I'm Systems Engineer.
 - 🔭 I’m currently working at Banana Software. 
 - 🌱 I’m currently learning Design Patterns.
 - 👯 I’m looking to collaborate on Development Multi-plataform Apps.
